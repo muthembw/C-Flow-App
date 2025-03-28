@@ -1,0 +1,14 @@
+html, body {
+    height: 100%; /* Ensure the body takes full height */
+    margin: 0; /* Remove default margin */
+}
+
+.app-container {
+    display: flex; /* Use Flexbox */
+    flex-direction: column; /* Stack children vertically */
+    min-height: 100vh; /* Minimum height of the container is 100% of the viewport height */
+}
+
+footer {
+    margin-bottom:auto;
+}

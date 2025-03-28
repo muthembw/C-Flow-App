@@ -1,0 +1,13 @@
+div {
+    padding: 20px; /* Padding for content */
+    text-align: center; /* Centered text */
+}
+
+h1 {
+    color: #4CAF50; /* Green color for headings */
+}
+
+p {
+    font-size: 18px; /* Font size for paragraphs */
+    line-height: 1.6; /* Line height for readability */
+}
